@@ -1,8 +1,8 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.4",
   "url": "https://github.com/kthohuuhoang-gif/magic-rebake-update/releases/download/rebake-latest-update/MagicReBake_Update.zip",
-  "sha256": "3b92d10d6d47efd9b6a6e5335b4e8b02998073f37c8ce3b2cb99958bc1502423",
+  "sha256": "8994e5b09248b45adf63d4cc0e831c85196e212bf4ea82982dc6871946cf0beb",
   "date": "2026-06-30",
-  "size": 12828240,
-  "notes": "fix loi tieng viet tren mot so may"
+  "size": 29274014,
+  "notes": "Bo sung tinh nang Fix tu dong Model tao ra bang AI dan den loi FBX"
 }
