@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "url": "https://github.com/kthohuuhoang-gif/magic-rebake-update/releases/download/rebake-latest-update/MagicReBake_Update.zip",
-  "sha256": "94d7934289dbc42861e4ab6f522a70cd331d4a53ec9f5a498c9e787c9905a7aa",
+  "sha256": "3b92d10d6d47efd9b6a6e5335b4e8b02998073f37c8ce3b2cb99958bc1502423",
   "date": "2026-06-30",
-  "size": 12527119,
-  "notes": "Ban cai chinh thuc"
+  "size": 12828240,
+  "notes": "fix loi tieng viet tren mot so may"
 }
