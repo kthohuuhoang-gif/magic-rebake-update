@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "url": "https://github.com/kthohuuhoang-gif/magic-rebake-update/releases/download/rebake-latest-update/MagicReBake_Update.zip",
-  "sha256": "8994e5b09248b45adf63d4cc0e831c85196e212bf4ea82982dc6871946cf0beb",
-  "date": "2026-06-30",
-  "size": 29274014,
-  "notes": "Bo sung tinh nang Fix tu dong Model tao ra bang AI dan den loi FBX"
+  "sha256": "0a1fd958f834b82cc5d19fd8f4166d9ea1090d899494d632ab4f43536605d0e4",
+  "date": "2026-07-01",
+  "size": 29297366,
+  "notes": "Mo rong support 3ds Max. Hotfix nho"
 }
