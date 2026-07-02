@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.4",
   "url": "https://github.com/kthohuuhoang-gif/magic-rebake-update/releases/download/rebake-latest-update/MagicReBake_Update.zip",
-  "sha256": "aab223419f86f699ad8508e1698262f2e24e8b617fb7e4b30e68dfac60bd522f",
+  "sha256": "f6512c7aaf8c33eea12a535fc1f6e476b920d943a25aefb9f6b8330d85a524f4",
   "date": "2026-07-02",
-  "size": 29370055,
-  "notes": "Fix Numpy 2.0"
+  "size": 29371408,
+  "notes": "Bo cuc layout phu hop"
 }
